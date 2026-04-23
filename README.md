@@ -15,8 +15,7 @@ This project is part of the Lloyds Banking Group Data Science Virtual Internship
 - [Results](#results)
 - [Visualizations](#visualizations)
 - [Business Insights](#business-insights)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 
@@ -143,18 +142,21 @@ The model is evaluated using several metrics:
 - Customers in certain demographic groups (e.g., higher income levels) have lower churn rates.
 - The model can identify high-risk customers with over 70% churn probability.
 
-## Visualizations 📊
+## Visualizations 
+<img width="986" height="836" alt="image" src="https://github.com/user-attachments/assets/be8f89c3-3609-4e4d-9dc5-d26d96b2e8f5" />
+<img width="764" height="682" alt="image" src="https://github.com/user-attachments/assets/2ded8181-78b3-4c1d-82d9-49003d49a656" />
+<img width="489" height="316" alt="image" src="https://github.com/user-attachments/assets/2d464796-6618-471c-be60-11ed9f399623" />
+<img width="691" height="545" alt="image" src="https://github.com/user-attachments/assets/80124974-28ee-4972-8e38-b6ef3b61aaa5" />
+<img width="510" height="391" alt="image" src="https://github.com/user-attachments/assets/fa35e31b-2d80-4824-9604-3c506c998c78" />
+<img width="761" height="545" alt="image" src="https://github.com/user-attachments/assets/3ac0ed7d-cf67-4586-9780-ff1599099ecf" />
+<img width="693" height="545" alt="image" src="https://github.com/user-attachments/assets/03e6d693-0997-486c-bfc8-043965d0cdc4" />
+<img width="687" height="545" alt="image" src="https://github.com/user-attachments/assets/5054d949-5a47-4e25-a921-5c6a2c8db218" />
+<img width="536" height="391" alt="image" src="https://github.com/user-attachments/assets/c3bef218-7b8f-4f69-90b8-d9db44bddec2" />
+<img width="536" height="432" alt="image" src="https://github.com/user-attachments/assets/a0bbd185-037f-4c61-9378-211ebcba805c" />
+<img width="536" height="391" alt="image" src="https://github.com/user-attachments/assets/74e23aa8-5d1e-4e8d-97c8-a3cd4be5d0db" />
 
-The project includes comprehensive visualizations generated in the notebook:
 
-1. **ROC Curve**: Shows model performance across different classification thresholds.
-2. **Confusion Matrix Heatmap**: Visual representation of true/false positives and negatives.
-3. **Feature Importance Plot**: Horizontal bar chart showing the importance of each model feature.
-4. **Churn Probability Distribution**: Histogram showing how churn probabilities are distributed across test customers.
-5. **Age Distribution by Churn Status**: Box plot comparing age distributions for churned vs retained customers.
-6. **Churn Rate by Gender**: Bar plot showing churn percentages for female and male customers.
-7. **Churn Rate by Marital Status**: Bar plot showing churn percentages across marital status categories.
-8. **Churn Rate by Income Level**: Bar plot showing churn percentages by income category.
+
 
 These graphics provide visual support for model performance, feature relevance, and key demographic patterns in churn behavior.
 
