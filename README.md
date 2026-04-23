@@ -63,8 +63,7 @@ Key features used in the model:
 ### 1️⃣ Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd "Lloyds Banking Group Data Science Virtual internship"
+https://github.com/abhinandan07-git/Lloyds-Banking-Group-Data-Science-Job-Simulation.git
 ```
 
 ### 2️⃣ Install dependencies:
@@ -75,13 +74,9 @@ Install the required packages using pip:
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 ```
 
-Or create a virtual environment:
 
-```bash
-python -m venv churn_env
-source churn_env/bin/activate  # On Windows: churn_env\Scripts\activate
-pip install pandas numpy scikit-learn xgboost matplotlib seaborn
-```
+
+
 
 ## Usage
 
